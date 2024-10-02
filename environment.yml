@@ -1,0 +1,9 @@
+name: pyiron_apt
+channels:
+  - conda-forge
+dependencies:
+  - paraprobe
+  - compositionspace
+  - pyiron_workflow
+  - jupyterlab
+  - jupyterlab-h5web

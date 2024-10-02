@@ -6,6 +6,18 @@ Part of [IUC09](https://nfdi-matwerk.de/project/structure/use-cases/iuc09) NFDI-
 
 ### Getting started
 
+Create an environment with conda:
+
+```
+conda env create -f environment.yml
+```
+
+After creating the environment, activate it by
+
+```
+conda activate pyiron_apt
+```
+
 ### Fixing and reporting bugs
 
 ### Compositing the scientific workflow
