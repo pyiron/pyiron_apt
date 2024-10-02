@@ -24,4 +24,5 @@ conda activate pyiron_apt
 
 ### TO-DO
 
-- Set up actions and such with pyiron module template
+- [Enhancement] Set up actions and such with pyiron module template
+- [Bug] `paraprobe_transcoder.py` has wrong imports; which needs to be fixed in the conda package. For the moment, the working file is included here.
