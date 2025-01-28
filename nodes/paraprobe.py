@@ -28,7 +28,7 @@ def ranger_job(transcoder_results, jobid=1):
         recon_fpath=f"{transcoder_results}", range_fpath="", jobid=jobid
     )
     os.system(
-        f"export OMP_NUM_THREADS=$MYOMP && mpiexec -n 1 paraprobe_ranger {jobid} {ranger_config}"
+        f"export OMP_NUM_THREADS=1 && mpiexec -n 1 paraprobe_ranger {jobid} {ranger_config}"
     )
     ranger_results = f"PARAPROBE.Ranger.Results.SimID.{jobid}.nxs"
     return ranger_results
