@@ -2,7 +2,10 @@
 APT analysis with pyiron(_workflows)
 
 Collection of nodes/pyiron jobs to collaboratively develop APT workflows.
-Part of [IUC09](https://nfdi-matwerk.de/about/nfdi-matwerk-structure/use-cases/iuc09) NFDI-MatWerk
+
+Part of [IUC09](https://nfdi-matwerk.de/about/nfdi-matwerk-structure/use-cases/iuc09) NFDI-MatWerk.
+
+A summary of the status quo is provided [here](https://zenodo.org/records/12594062).
 
 ### Getting started
 
