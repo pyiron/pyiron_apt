@@ -1,0 +1,36 @@
+cff-version: "1.2.0"
+type: software
+title: "pyiron_apt: Collection of nodes/pyiron jobs to collaboratively develop APT workflows"
+authors:
+- family-names: Menon
+  given-names: Sarath
+  orcid: "https://orcid.org/0000-0002-6776-1213"
+- family-names: Saxena
+  given-names: Alaukik
+  orcid: "https://orcid.org/0000-0001-6714-0954"
+- family-names: Kühbach
+  given-names: Markus
+  orcid: "https://orcid.org/0000-0002-7117-5196"
+- family-names: Hammerschmidt
+  given-names: Thomas
+  orcid: "https://orcid.org/0000-0002-2270-4469"
+message: >-
+  Please cite this ontology using the metadata from
+  "preferred-citation".
+repository-code: 'https://github.com/pyiron/pyiron_apt'
+license: BSD-3-Clause
+version: 0.0.1
+preferred-citation:
+  authors:
+  - family-names: Menon
+    given-names: Sarath
+  - family-names: Saxena
+    given-names: Alaukik
+  - family-names: Kühbach
+    given-names: Markus
+- family-names: Hammerschmidt
+  given-names: Thomas
+  title: "pyiron_apt: Collection of nodes/pyiron jobs to collaboratively develop APT workflows"
+  type: generic
+  year: 2026
+  url: https://github.com/pyiron/pyiron_apt
